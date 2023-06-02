@@ -7,3 +7,16 @@
     </br>Watch on YouTube: Matrix addition and multiplication in computer vision !
 </a>
 </p>
+
+## description
+
+In this video I explain what are matrixes and vectors, how to sum and how to multiply two matrixes, how to implement these operations in Python and how everything is applied in a neural network.
+
+<p align="center">
+    <img width="600" src="https://github.com/computervisioneng/mathematics-computer-vision/blob/main/imgs/nnet4.jpg">
+</p>
+
+## license
+
+This project is licensed under the [MIT LICENSE](https://github.com/computervisioneng/mathematics-computer-vision/blob/main/LICENSE).
+
